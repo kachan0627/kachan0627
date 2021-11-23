@@ -1,4 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kachan0627)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kachan0627&layout=compact&theme=dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kachan0627&show_icons=true&theme=dark)
