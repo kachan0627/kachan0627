@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kachan0627
-＆show_icons = true＆theme = radius）](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kachan0627&show_icons=true&theme=radical)
+
 
 <!---
 kachan0627/kachan0627 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
