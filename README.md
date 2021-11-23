@@ -1,6 +1,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kachan0627&layout=compact&theme=dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kachan0627&show_icons=true&theme=dark&line_height=300px)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kachan0627&show_icons=true&theme=dark&line_height=20)
 
 
 <!---
